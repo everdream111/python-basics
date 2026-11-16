@@ -35,7 +35,7 @@
 1. Встановіть Python 3.10 або новіший.
 2. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/<ваш-логін>/python-basics.git
+   git clone https://github.com/<everdream111>/python-basics.git
    cd python-basics
    ```
 3. Запустіть програму:
